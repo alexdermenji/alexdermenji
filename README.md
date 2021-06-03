@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @alexdermenji, frontend developer from UK
+# 👋 Hi, I’m @alexdermenji, frontend developer from UK
 
